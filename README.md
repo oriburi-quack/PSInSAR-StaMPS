@@ -19,7 +19,7 @@
 
 ## TRAIN-master
 
-## Additional Package for StaMPS
+## Additional Packages for StaMPS
 
 ### get_ifgday.m
 
