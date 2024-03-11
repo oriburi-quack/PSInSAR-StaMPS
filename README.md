@@ -1,8 +1,6 @@
 # PSInSAR-StaMPS
 ## StaMPS-4.1 beta
 
-### Installation
-
 ### STEP 1
 
 ### STEP 2
